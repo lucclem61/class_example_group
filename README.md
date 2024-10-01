@@ -1,6 +1,6 @@
 # class_example_group
   dev.af.readme_conflict
-  test
+    test
   changing stuff
   changing stuff
 
