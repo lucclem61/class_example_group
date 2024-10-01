@@ -1,5 +1,5 @@
 # class_example_group
-dev.af.readme_conflict
+  dev.af.readme_conflict
 test
 changing stuff
 changing stuff
